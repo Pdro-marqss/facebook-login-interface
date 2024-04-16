@@ -19,6 +19,7 @@
 		F0B1D7472BCEC39700A2093A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F0B1D7492BCEC39B00A2093A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F0B1D74C2BCEC39B00A2093A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F0B1D7532BCEC43A00A2093A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		F0B1D7392BCEC39700A2093A = {
 			isa = PBXGroup;
 			children = (
+				F0B1D7532BCEC43A00A2093A /* README.md */,
 				F0B1D7442BCEC39700A2093A /* FacebookLogin */,
 				F0B1D7432BCEC39700A2093A /* Products */,
 			);
